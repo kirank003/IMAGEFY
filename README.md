@@ -26,4 +26,7 @@ Backend: Python (Flask)
 AI Model: Stable Diffusion (Hugging Face API)
 
 ![App Screenshot](generate%20images/Screenshot%202025-01-30%20191827.png)
+ ![Imagify Screenshot B](generate%20images/Screenshot%202025-04-08%20193730.png)
+ ![Imagify Screenshot C](generate%20images/Screenshot%202025-04-09%20002826.png)
+
 
