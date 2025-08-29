@@ -24,3 +24,6 @@ Frontend: HTML, Bootstrap, JavaScript
 Backend: Python (Flask)
 
 AI Model: Stable Diffusion (Hugging Face API)
+
+![App Screenshot](generate%20images/Screenshot%202025-01-30%20191827.png)
+
