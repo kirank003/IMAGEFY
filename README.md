@@ -1,7 +1,9 @@
 # IMAGEFY
 📸 Imagify – AI Text-to-Image Generator
 
-Imagify is an AI-powered web application that transforms text prompts into unique images using Stable Diffusion via Hugging Face API. It is built with Flask (backend) and Bootstrap (frontend) to provide a clean, responsive interface for AI creativity.
+Imagify is an AI-powered Text-to-Image Generation Tool that transforms natural language descriptions into high-quality images using advanced deep learning models. Built with a user-friendly web interface, the project integrates Flask, Bootstrap, and the Hugging Face Inference API (Stable Diffusion) to provide seamless text-to-image conversion.
+
+The system allows users to simply type a descriptive prompt (e.g., “a futuristic city skyline at sunset” or “a cat playing guitar in cartoon style”) and instantly generates a corresponding image. This makes Imagify a powerful tool for designers, content creators, researchers, and AI enthusiasts who need quick visualizations.
 
 🚀 Features
 
